@@ -20,7 +20,7 @@ Nguồn dữ liệu được lấy từ website:
 - Dữ liệu được trình bày dưới dạng **bảng HTML**
 
 Nhiệm vụ của bạn là:
-- Tự động hóa việc thu thập dữ liệu
+- Tự động hóa việc thu thập dữ liệu từ [CafeF.vn](https://cafef.vn/du-lieu/bao-cao-tai-chinh/VIC/bsheet/2023/1/0/0/bao-cao-tai-chinh-.chn)
 - Chuẩn hóa dữ liệu để phục vụ phân tích theo thời gian
 
 ---
